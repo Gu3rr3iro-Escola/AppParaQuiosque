@@ -1,0 +1,320 @@
+{
+  "Perfil": "Padrao",
+  "Config_Principal": {
+    "PosicaoSuperior": false,
+    "PosicaoDireita": true,
+    "Margem": 3,
+    "TextoA": "Mostrar",
+    "TextoB": "Esconder",
+    "TextoC": "Fecha a janela",
+    "DefinicoesDoFundo": {
+      "TipoDeFundo": "Transparente",
+      "CorDeFundoTranparente": {
+        "R": 255,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Red"
+      },
+      "CorDeFundo": {
+        "R": 255,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Red"
+      },
+      "ImagemDeFudno": null
+    },
+    "DefinicoesDoBotao": {
+      "CorFundo": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "CorTexto": {
+        "R": 255,
+        "G": 255,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "White"
+      }
+    },
+    "Texto": {
+      "FonteArray": [
+        "Arial",
+        "15",
+        "Bold"
+      ],
+      "TamanhoMaximoFont": 15.5,
+      "TamanhoMinimoFont": 11,
+      "MultiplicadorEscalaParaFonte": 0
+    },
+    "Escala": {
+      "EscalaFixa": false,
+      "EscalaFixaValor": 0.9,
+      "ResolucaoMaxima": [
+        1920,
+        1080
+      ],
+      "ResolucaoMinima": [
+        800,
+        480
+      ],
+      "EscalaMaxima": 0.9,
+      "EscalaMinima": 0.6,
+      "IntensidadeCurvas": 1,
+      "CorDaBorda": {
+        "R": 255,
+        "G": 255,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "White"
+      },
+      "TamanhoBorda": 4
+    }
+  },
+  "Config_Menu": {
+    "TelaInteira": true,
+    "PosicaoBarra": 0,
+    "AlturaBotoes": 0,
+    "EspacamentoBotoes": 0,
+    "Texto": {
+      "FonteArray": [
+        "Arial",
+        "13",
+        "Bold"
+      ],
+      "TamanhoMaximoFont": 40,
+      "TamanhoMinimoFont": 10,
+      "MultiplicadorEscalaParaFonte": 0.3
+    },
+    "Escala": {
+      "EscalaFixa": false,
+      "EscalaFixaValor": 0.7,
+      "ResolucaoMaxima": [
+        1920,
+        1080
+      ],
+      "ResolucaoMinima": [
+        800,
+        480
+      ],
+      "EscalaMaxima": 0.7,
+      "EscalaMinima": 1.5,
+      "IntensidadeCurvas": 3,
+      "CorDaBorda": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "TamanhoBorda": 6
+    },
+    "DefinicoesDosBotoes": {
+      "CorFundo": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Black"
+      },
+      "CorTexto": {
+        "R": 255,
+        "G": 255,
+        "B": 255,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "White"
+      }
+    },
+    "DefinicoesDoFundo": {
+      "TipoDeFundo": null,
+      "CorDeFundoTranparente": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "CorDeFundo": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "ImagemDeFudno": null
+    },
+    "Botao": [
+      {
+        "Nome": "Como configurar o Wifi",
+        "Tipo": "PassoAPasso",
+        "Diretorio_Link": "ConfigurarWifi"
+      },
+      {
+        "Nome": "Esqueci-me da Senha",
+        "Tipo": "Link",
+        "Diretorio_Link": "https://web.novalaw.unl.pt/Help.asp"
+      },
+      {
+        "Nome": "Office 365",
+        "Tipo": "PDF",
+        "Diretorio_Link": "AjudaOffice.pdf"
+      },
+      {
+        "Nome": "Retirar Senha",
+        "Tipo": "Link",
+        "Diretorio_Link": "https://hub.novalaw.pt/senhas?lang=pt"
+      }
+    ]
+  },
+  "Config_PassoAPasso": {
+    "Margem": 2.3,
+    "Texto": {
+      "FonteArray": [
+        "Arial",
+        "8",
+        "Bold"
+      ],
+      "TamanhoMaximoFont": 17,
+      "TamanhoMinimoFont": 8,
+      "MultiplicadorEscalaParaFonte": 0
+    },
+    "Escala": {
+      "EscalaFixa": false,
+      "EscalaFixaValor": 1.1,
+      "ResolucaoMaxima": [
+        1920,
+        1080
+      ],
+      "ResolucaoMinima": [
+        800,
+        480
+      ],
+      "EscalaMaxima": 2.1,
+      "EscalaMinima": 1.1,
+      "IntensidadeCurvas": 2,
+      "CorDaBorda": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "TamanhoBorda": 3
+    },
+    "DefinicoesDsoBot\u00F5es": {
+      "CorFundo": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "CorTexto": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      }
+    },
+    "DefinicoesDoFundo": {
+      "TipoDeFundo": null,
+      "CorDeFundoTranparente": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "CorDeFundo": {
+        "R": 0,
+        "G": 0,
+        "B": 0,
+        "A": 0,
+        "IsKnownColor": false,
+        "IsEmpty": true,
+        "IsNamedColor": false,
+        "IsSystemColor": false,
+        "Name": "0"
+      },
+      "ImagemDeFudno": null
+    },
+    "Itens": [
+      {
+        "TituloDaJanela": "Configurar Wifi",
+        "Imagem1": [
+          "Win",
+          "jpg"
+        ],
+        "Imagem2": [
+          "Mac",
+          "png"
+        ],
+        "Imagem3": [
+          "Android",
+          "jpg"
+        ]
+      }
+    ]
+  }
+}

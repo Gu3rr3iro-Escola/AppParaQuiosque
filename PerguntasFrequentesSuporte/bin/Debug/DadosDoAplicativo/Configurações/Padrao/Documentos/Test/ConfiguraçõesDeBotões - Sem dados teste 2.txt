@@ -1,0 +1,113 @@
+Usar Configurações Padrão: {true} // Usado para ativar ou desativar as configurações, quando true as Configurações não seram carregadas
+///
+/// Principal - Botão Mostrar/Esconder
+///
+Posição {0} // Padrão, esq inferior
+TextoA{Mostrar}
+TextoB{Esconder}
+TextoC{Fecha a janela}
+Fonte{Arial,15,Bold}
+Tamanho Máximo Fonte: {15.5}
+Tamanho Minimo Fonte: {11}
+MultiplicadorEscalaParaFonte{0}
+CorFundo{Red}// BackColor, Red = Transparent
+CorTexto{Black}
+
+EscalaFixa{false}
+EscalaFixaValor{0.9}
+ResolucaoMaxima{1920,1080}
+ResolucaoMinima{800,480}
+ResolucaoDiferença{1120,480}
+EscalaMaxima{90}
+EscalaMinima{60}
+EscalaDiferença{30}
+IntensidadeCurvas{3} // máx 4, mas não é preciso filtrar está no codigo a bloquear
+Borda{true} 
+TamanhoBorda{3} 
+
+///
+///Botões / Menu
+///
+
+TelaInteira{true}
+PosicaoBarra{0} //Padrão
+Fonte{Arial,13,Bold} //ou Segoe UI
+Tamanho Máximo Fonte: {40}
+Tamanho Minimo Fonte: {10}
+MultiplicadorEscalaParaFonte{0.3}
+CorFundo{Red}// BackColor, Red = Transparent
+CorTexto{Black}
+
+EscalaFixa{false}
+EscalaFixaValor{7}
+ResolucaoMaxima{1920,1080}
+ResolucaoMinima{800,480}
+ResolucaoDiferença{1120,480}
+EscalaMaxima{70}
+EscalaMinima{150}
+EscalaDiferença{80}
+IntensidadeCurvas{3}
+Borda{true}
+TamanhoBorda{3}
+QuantidadeBotoes{4}
+//Botão1
+Nome{Explicação Wifi}
+tipo{PassoAPasso(Wifi)}
+Diretorio/Link{}
+//Botão2
+Nome{Esqueci-me da Senha}
+tipo{Link}
+Diretorio/Link{https://web.novalaw.unl.pt/Help.asp}
+//Botão3
+Nome{Office 365}
+tipo{PDF}
+Diretorio/Link{AjudaOffice.pdf}
+//Botão4
+Nome{Retirar Senha}
+tipo{Link}
+Diretorio/Link{https://hub.novalaw.pt/senhas?lang=pt}
+//Botão5
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão6
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão7
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão8
+Nome{}
+tipo{}
+Diretorio/Link{}
+
+Espacamento{40}
+Altura{172}
+
+///
+///ConfigWifi (possivelemte passo a passo geral)
+///
+Imagens 1 {Win,.jpg}
+Imagens 2 {Mac,.png} 
+Imagens 3 {Android,.jpg}
+Margem {2.3}
+Fonte{Arial,8,Bold}
+Tamanho Máximo Fonte: {17}
+Tamanho Minimo Fonte: {8}
+MultiplicadorEscalaParaFonte{0}
+CorFundo{White}
+CorTexto{Black}
+
+EscalaFixa{false}
+EscalaFixaValor{1.1}
+ResolucaoMaxima{1920,1080}
+ResolucaoMinima{800,480}
+ResolucaoDiferença{1120,480}
+EscalaMaxima{210}
+EscalaMinima{110}
+EscalaDiferença{100}
+IntensidadeCurvas{2} // máx 4, mas não é preciso filtrar está no codigo a bloquear
+Borda{true} 
+TamanhoBorda{3} 

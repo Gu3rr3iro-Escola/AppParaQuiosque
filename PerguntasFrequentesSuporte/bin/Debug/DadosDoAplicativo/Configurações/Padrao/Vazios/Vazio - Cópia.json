@@ -1,0 +1,159 @@
+{
+  "Perfil": "Padrao",
+  "Config_Principal": {
+    "Posicao": 0,
+    "TextoA": "Mostrar",
+    "TextoB": "Esconder",
+    "TextoC": "Fecha a janela",
+    "Texto": {
+      "FonteArray": [
+        "Arial",
+        "15",
+        "Bold"
+      ],
+      "TamanhoMaximoFont": 15.5,
+      "TamanhoMinimoFont": 11,
+      "MultiplicadorEscalaParaFonte": 0,
+      "CorFundo": "Red",
+      "CorTexto": "Black"
+    },
+    "Escala": {
+      "EscalaFixa": false,
+      "EscalaFixaValor": 0.9,
+      "ResolucaoMaxima": [
+        1920,
+        1080
+      ],
+      "ResolucaoMinima": [
+        800,
+        480
+      ],
+      "ResolucaoDiferenca": [
+        1120,
+        480
+      ],
+      "EscalaMaxima": 0.9,
+      "EscalaMinima": 0.6,
+      "EscalaDiferenca": 0.3,
+      "IntensidadeCurvas": 3,
+      "Borda": true,
+      "TamanhoBorda": 3
+    }
+  },
+  "Config_Menu": {
+    "TelaInteira": true,
+    "PosicaoBarra": 0,
+    "Texto": {
+      "FonteArray": [
+        "Arial",
+        "13",
+        "Bold"
+      ],
+      "TamanhoMaximoFont": 40,
+      "TamanhoMinimoFont": 10,
+      "MultiplicadorEscalaParaFonte": 0.3,
+      "CorFundo": "Red",
+      "CorTexto": "Black"
+    },
+    "Escala": {
+      "EscalaFixa": false,
+      "EscalaFixaValor": 0.7,
+      "ResolucaoMaxima": [
+        1920,
+        1080
+      ],
+      "ResolucaoMinima": [
+        800,
+        480
+      ],
+      "ResolucaoDiferenca": [
+        1120,
+        480
+      ],
+      "EscalaMaxima": 0.7,
+      "EscalaMinima": 1.5,
+      "EscalaDiferenca": 0.8,
+      "IntensidadeCurvas": 3,
+      "Borda": true,
+      "TamanhoBorda": 3
+    },
+    "Botao": [
+      {
+        "Nome": "Como configurar o Wifi",
+        "Tipo": "PassoAPasso",
+        "Diretorio_Link": "ConfigurarWifi"
+      },
+      {
+        "Nome": "Esqueci-me da Senha",
+        "Tipo": "Link",
+        "Diretorio_Link": "https://web.novalaw.unl.pt/Help.asp"
+      },
+      {
+        "Nome": "Office 365",
+        "Tipo": "PDF",
+        "Diretorio_Link": "AjudaOffice.pdf"
+      },
+      {
+        "Nome": "Retirar Senha",
+        "Tipo": "Link",
+        "Diretorio_Link": "https://hub.novalaw.pt/senhas?lang=pt"
+      }
+    ],
+    "Espacamento": 40,
+    "Altura": 172
+  },
+  "Config_PassoAPasso": {
+    "Margem": 2.3,
+    "Texto": {
+      "FonteArray": [
+        "Arial",
+        "8",
+        "Bold"
+      ],
+      "TamanhoMaximoFont": 17,
+      "TamanhoMinimoFont": 8,
+      "MultiplicadorEscalaParaFonte": 0,
+      "CorFundo": "White",
+      "CorTexto": "Black"
+    },
+    "Escala": {
+      "EscalaFixa": false,
+      "EscalaFixaValor": 1.1,
+      "ResolucaoMaxima": [
+        1920,
+        1080
+      ],
+      "ResolucaoMinima": [
+        800,
+        480
+      ],
+      "ResolucaoDiferenca": [
+        1120,
+        480
+      ],
+      "EscalaMaxima": 2.1,
+      "EscalaMinima": 1.1,
+      "EscalaDiferenca": 1,
+      "IntensidadeCurvas": 2,
+      "Borda": true,
+      "TamanhoBorda": 3
+    },
+    "Itens": [
+      {
+        "TituloDaJanela": "Configurar Wifi",
+        "Imagem1": [
+          "Win",
+          "jpg"
+        ],
+        "Imagem2": [
+          "Mac",
+          "png"
+        ],
+        "Imagem3": [
+          "Android",
+          "jpg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "Perfil": "Padrao",
+  "Caminho": "M:\\Est\u00E1gio\\Projetos\\ProjetoAtual\\PerguntasFrequentesSuporte\\PerguntasFrequentesSuporte\\bin\\Debug\\net5.0-windows\\Perfil\\0",
+  "Config_BtnMudarEsconder_MostrarMenu": {
+    "Base": {
+      "Titulo": "Janela Principal",
+      "Margem": 2,
+      "ExibirBarraTitulo": true,
+      "AparecerNaBarraDeTarefas": true,
+      "Fonte": {
+        "FonteArray": [
+          "Arial",
+          "15",
+          "Bold"
+        ],
+        "TamanhoMaximo": 15.5,
+        "TamanhoMinimo": 11
+      },
+      "Escala": {
+        "ValorFixo": 0.9,
+        "Maxima": 0.9,
+        "Minima": 0.6,
+        "Resolucao": {
+          "Maxima": [
+            1920,
+            1080
+          ],
+          "Minima": [
+            800,
+            480
+          ]
+        }
+      },
+      "TemaVisual": [
+        {
+          "NomeTema": "Claro",
+          "CorFundoTransparente": true,
+          "CorFundo": {
+            "R": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Red"
+          },
+          "IntensidadeArredondarBorda": 5,
+          "TamanhoContrasteBorda": 5,
+          "CorContrasteBorda": {
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Black"
+          },
+          "VisualBotoes": [
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            }
+          ]
+        },
+        {
+          "NomeTema": "Escuro",
+          "CorFundoTransparente": true,
+          "CorFundo": {
+            "R": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Red"
+          },
+          "IntensidadeArredondarBorda": 5,
+          "TamanhoContrasteBorda": 5,
+          "CorContrasteBorda": {
+            "R": 255,
+            "G": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "White"
+          },
+          "VisualBotoes": [
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "Dados": {
+      "PosicaoEsquerda": true,
+      "TextoA": "Mostrar",
+      "TextoB": "Esconder",
+      "TextoC": "Fecha a janela"
+    }
+  },
+  "Config_Menu": {
+    "Base": {
+      "Titulo": "Menu",
+      "Margem": 20,
+      "Fonte": {
+        "FonteArray": [
+          "Arial",
+          "30",
+          "Bold"
+        ],
+        "TamanhoMaximo": 40,
+        "TamanhoMinimo": 10
+      },
+      "Escala": {
+        "ValorFixo": 0.7,
+        "Maxima": 0.7,
+        "Minima": 1.5,
+        "MultiplicadorEscalaFonte": 1.3,
+        "Resolucao": {
+          "Maxima": [
+            1920,
+            1080
+          ],
+          "Minima": [
+            800,
+            480
+          ]
+        }
+      },
+      "TemaVisual": [
+        {
+          "NomeTema": "Claro",
+          "CorFundoTransparente": true,
+          "CorFundo": {
+            "R": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Fuchsia"
+          },
+          "CorContrasteBorda": {
+            "R": 255,
+            "G": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "White"
+          },
+          "VisualBotoes": [
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 3,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 3,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 3,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 3,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 3,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            }
+          ]
+        },
+        {
+          "NomeTema": "Escuro",
+          "CorFundoTransparente": true,
+          "CorFundo": {
+            "R": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Fuchsia"
+          },
+          "IntensidadeArredondarBorda": 1,
+          "TamanhoContrasteBorda": 1,
+          "CorContrasteBorda": {
+            "R": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Fuchsia"
+          },
+          "VisualBotoes": [
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            },
+            {
+              "IntensidadeArredondarBorda": 5,
+              "TamanhoContrasteBorda": 5,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "Dados": {
+      "TelaInteira": true,
+      "PercentagemEcra": 75,
+      "AlturaBotoes": 72,
+      "BotoesPorLinha": 4,
+      "QuantidadeBotoes": 5,
+      "Botoes": [
+        {
+          "Nome": "Explica\u00E7\u00E3o \nWifi",
+          "Tipo": "Forms",
+          "Diretorio_Link": "PassoAPasso[0]"
+        },
+        {
+          "Nome": "Esqueci-me \nda Senha",
+          "Tipo": "Link",
+          "Diretorio_Link": "https://web.novalaw.unl.pt/Help.asp"
+        },
+        {
+          "Nome": "Office \n365",
+          "Tipo": "PDF",
+          "Diretorio_Link": "AjudaOffice.pdf"
+        },
+        {
+          "Nome": "Retirar \nSenha",
+          "Tipo": "Link",
+          "Diretorio_Link": "https://hub.novalaw.pt/senhas?lang=pt"
+        },
+        {
+          "Nome": "Abrir\nConfigura\u00E7\u00F5es",
+          "Tipo": "Forms",
+          "Diretorio_Link": "Config"
+        }
+      ]
+    }
+  },
+  "Config_PassoAPasso": {
+    "Base": {
+      "Titulo": "PassoAPasso",
+      "Margem": 2.3,
+      "Fonte": {
+        "FonteArray": [
+          "Arial",
+          "18",
+          "Bold"
+        ],
+        "TamanhoMaximo": 23,
+        "TamanhoMinimo": 8
+      },
+      "Escala": {
+        "ValorFixo": 1.1,
+        "Maxima": 2.1,
+        "Minima": 1.1,
+        "Resolucao": {
+          "Maxima": [
+            1920,
+            1080
+          ],
+          "Minima": [
+            800,
+            480
+          ]
+        }
+      },
+      "TemaVisual": [
+        {
+          "NomeTema": "Claro",
+          "CorFundo": {
+            "R": 255,
+            "G": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "White"
+          },
+          "IntensidadeArredondarBorda": 5,
+          "TamanhoContrasteBorda": 1,
+          "CorContrasteBorda": {
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Black"
+          },
+          "VisualBotoes": [
+            {
+              "IntensidadeArredondarBorda": 7,
+              "TamanhoContrasteBorda": 4,
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            },
+            {
+              "CorContrasteBorda": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorTexto": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              }
+            }
+          ]
+        },
+        {
+          "NomeTema": "Escuro",
+          "CorFundo": {
+            "R": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "Red"
+          },
+          "IntensidadeArredondarBorda": 5,
+          "TamanhoContrasteBorda": 1,
+          "CorContrasteBorda": {
+            "R": 255,
+            "G": 255,
+            "B": 255,
+            "A": 255,
+            "IsKnownColor": true,
+            "IsNamedColor": true,
+            "Name": "White"
+          },
+          "VisualBotoes": [
+            {
+              "IntensidadeArredondarBorda": 7,
+              "TamanhoContrasteBorda": 4,
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            },
+            {
+              "CorContrasteBorda": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorTexto": {
+                "R": 255,
+                "G": 255,
+                "B": 255,
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "White"
+              },
+              "CorFundo": {
+                "A": 255,
+                "IsKnownColor": true,
+                "IsNamedColor": true,
+                "Name": "Black"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "Dados": [
+      {
+        "Imagens0": [
+          "Windows",
+          "Win",
+          "jpg"
+        ],
+        "Imagens1": [
+          "MacBook",
+          "Mac",
+          "png"
+        ],
+        "Imagens2": [
+          "Android",
+          "Adr",
+          "jpg"
+        ],
+        "Titulo": "Configurar Wifi"
+      }
+    ]
+  }
+}

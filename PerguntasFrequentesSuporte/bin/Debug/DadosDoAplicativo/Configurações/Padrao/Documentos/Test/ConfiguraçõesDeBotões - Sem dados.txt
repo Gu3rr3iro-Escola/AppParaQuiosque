@@ -1,0 +1,113 @@
+Usar Configurações Padrão: {} // Usado para ativar ou desativar as configurações, quando true as Configurações não seram carregadas
+///
+/// Principal - Botão Mostrar/Esconder
+///
+Posição {} // Padrão, esq inferior
+TextoA{}
+TextoB{}
+TextoC{}
+Fonte{}
+Tamanho Máximo Fonte: {}
+Tamanho Minimo Fonte: {}
+MultiplicadorEscalaParaFonte{}
+CorFundo{}// BackColor, Red = Transparent
+CorTexto{}
+
+EscalaFixa{}
+EscalaFixaValor{}
+ResolucaoMaxima{}
+ResolucaoMinima{}
+ResolucaoDiferença{}
+EscalaMaxima{}
+EscalaMinima{}
+EscalaDiferença{}
+IntensidadeCurvas{} // máx 4, mas não é preciso filtrar está no codigo a bloquear
+Borda{} 
+TamanhoBorda{} 
+
+///
+///Botões / Menu
+///
+
+TelaInteira{}
+PosicaoBarra{} //Padrão
+Fonte{} //ou Segoe UI
+Tamanho Máximo Fonte: {}
+Tamanho Minimo Fonte: {}
+MultiplicadorEscalaParaFonte{}
+CorFundo{}// BackColor, Red = Transparent
+CorTexto{}
+
+EscalaFixa{}
+EscalaFixaValor{}
+ResolucaoMaxima{}
+ResolucaoMinima{}
+ResolucaoDiferença{}
+EscalaMaxima{}
+EscalaMinima{}
+EscalaDiferença{}
+IntensidadeCurvas{}
+Borda{}
+TamanhoBorda{}
+QuantidadeBotoes{}
+//Botão1
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão2
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão3
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão4
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão5
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão6
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão7
+Nome{}
+tipo{}
+Diretorio/Link{}
+//Botão8
+Nome{}
+tipo{}
+Diretorio/Link{}
+
+Espacamento{}
+Altura{}
+
+///
+///ConfigWifi (possivelemte passo a passo geral)
+///
+Imagens 1 {}
+Imagens 2 {} 
+Imagens 3 {}
+Margem {}
+Fonte{}
+Tamanho Máximo Fonte: {}
+Tamanho Minimo Fonte: {}
+MultiplicadorEscalaParaFonte{}
+CorFundo{}
+CorTexto{}
+
+EscalaFixa{}
+EscalaFixaValor{}
+ResolucaoMaxima{}
+ResolucaoMinima{}
+ResolucaoDiferença{}
+EscalaMaxima{}
+EscalaMinima{}
+EscalaDiferença{}
+IntensidadeCurvas{} // máx 4, mas não é preciso filtrar está no codigo a bloquear
+Borda{} 
+TamanhoBorda{} 

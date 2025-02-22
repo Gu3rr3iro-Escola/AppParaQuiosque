@@ -1,0 +1,333 @@
+{
+  "ConfiguracaoAplicacao": {
+    "TextoDosBotoesDeLado": true,
+    "PercentagemEcraParaBotoesAltura": 80,
+    "PercentagemEcraParaBotoesLargura": 100,
+    "BotoesPorLinha": 4,
+    "QuantidadeBotoes": 0,
+    "ConfiguracoesBotoesMenu": [
+      {
+        "Nome": "DefaultBot\u00E3o",
+        "Tipo": "Link",
+        "Diretorio_Link": "https://example.com"
+      }
+    ],
+    "ConfiguracoesSair_Mostrar": {
+      "BotaoEsconder_MostrarEsconder": true,
+      "BtnSairVisivel": true,
+      "PosicaoSuperior": false,
+      "PosicaoEsquerda": true,
+      "TextoBotaoMostrarEsconder": {
+        "BotoesVisiveis": "Mostrar",
+        "BotoesEscondidos": "Esconder",
+        "FormsAberto": "Feche a janela."
+      }
+    },
+    "ConfiguracoesPassoAPasso": [
+      {
+        "Titulo": "Passo a Passo",
+        "Imagens": [
+          null,
+          null,
+          null
+        ]
+      }
+    ]
+  },
+  "Perfil": "Padrao",
+  "IndiceTemaAtual": 0,
+  "VisualAplicacao": {
+    "Titulo": "Menu de Bot\u00F5es",
+    "JanelasRedimensionaveis": true,
+    "JanelasMoveis": true,
+    "AparecerNaBarraDeTarefas": false,
+    "UsaIcone": false,
+    "CaminhoIcone": "",
+    "OpacidadeDoPrograma": 0.99,
+    "ProgramaNoTrayMenu": true,
+    "TamanhoJanelas": {
+      "Tamanhos": {
+        "Default": {
+          "IsEmpty": false,
+          "Width": 400,
+          "Height": 300
+        },
+        "Botoes_Sair_EsconderMostrar": {
+          "IsEmpty": false,
+          "Width": 240,
+          "Height": 150
+        },
+        "PassoAPasso": {
+          "IsEmpty": false,
+          "Width": 390,
+          "Height": 540
+        },
+        "Configuracoes": {
+          "IsEmpty": false,
+          "Width": 800,
+          "Height": 550
+        },
+        "InputBoxColor": {
+          "IsEmpty": false,
+          "Width": 400,
+          "Height": 560
+        },
+        "InputBoxFont": {
+          "IsEmpty": false,
+          "Width": 310,
+          "Height": 355
+        },
+        "InputBoxImagem": {
+          "IsEmpty": false,
+          "Width": 370,
+          "Height": 180
+        },
+        "Menu": {
+          "IsEmpty": false,
+          "Width": 1920,
+          "Height": 1080
+        }
+      }
+    },
+    "Tema": [
+      {
+        "NomeTema": "Default",
+        "CorFundo": {
+          "R": 255,
+          "G": 255,
+          "B": 255
+        },
+        "CorDoContraste": {
+          "R": 0,
+          "G": 0,
+          "B": 0
+        },
+        "TamanhoDoContraste": 3,
+        "VisualBotoes": {
+          "Default": [
+            {
+              "TipoDoControl": "Default",
+              "Fonte": {
+                "Name": "Microsoft Sans Serif",
+                "Size": 8,
+                "Style": "Regular"
+              },
+              "Margem": 0,
+              "IntensidadeArredondarBorda": 0,
+              "TamanhoContrasteBorda": 2,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ],
+          "Configuracoes": [
+            {
+              "TipoDoControl": "Default",
+              "Fonte": {
+                "Name": "Microsoft Sans Serif",
+                "Size": 8,
+                "Style": "Regular"
+              },
+              "Margem": 0,
+              "IntensidadeArredondarBorda": 0,
+              "TamanhoContrasteBorda": 2,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ],
+          "InputBoxColor": [
+            {
+              "TipoDoControl": "Default",
+              "Fonte": {
+                "Name": "Microsoft Sans Serif",
+                "Size": 8,
+                "Style": "Regular"
+              },
+              "Margem": 0,
+              "IntensidadeArredondarBorda": 0,
+              "TamanhoContrasteBorda": 2,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ],
+          "InputBoxFont": [
+            {
+              "TipoDoControl": "Default",
+              "Fonte": {
+                "Name": "Microsoft Sans Serif",
+                "Size": 8,
+                "Style": "Regular"
+              },
+              "Margem": 0,
+              "IntensidadeArredondarBorda": 0,
+              "TamanhoContrasteBorda": 2,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ],
+          "InputBoxImagem": [
+            {
+              "TipoDoControl": "Default",
+              "Fonte": {
+                "Name": "Microsoft Sans Serif",
+                "Size": 8,
+                "Style": "Regular"
+              },
+              "Margem": 0,
+              "IntensidadeArredondarBorda": 0,
+              "TamanhoContrasteBorda": 2,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ],
+          "Menu": [
+            {
+              "TipoDoControl": "BotaoSair_Mostrar",
+              "Fonte": {
+                "Name": "Arial",
+                "Size": 30,
+                "Style": "Bold"
+              },
+              "Margem": 5,
+              "IntensidadeArredondarBorda": 3,
+              "TamanhoContrasteBorda": 4,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            },
+            {
+              "TipoDoControl": "BotaoAcao",
+              "Fonte": {
+                "Name": "Arial",
+                "Size": 40,
+                "Style": "Bold"
+              },
+              "Margem": 10,
+              "IntensidadeArredondarBorda": 6,
+              "TamanhoContrasteBorda": 4,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ],
+          "PassoAPasso": [
+            {
+              "TipoDoControl": "Default",
+              "Fonte": {
+                "Name": "Microsoft Sans Serif",
+                "Size": 8,
+                "Style": "Regular"
+              },
+              "Margem": 0,
+              "IntensidadeArredondarBorda": 0,
+              "TamanhoContrasteBorda": 2,
+              "CorContrasteBorda": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorTexto": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+              },
+              "CorFundo": {
+                "R": 255,
+                "G": 255,
+                "B": 255
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

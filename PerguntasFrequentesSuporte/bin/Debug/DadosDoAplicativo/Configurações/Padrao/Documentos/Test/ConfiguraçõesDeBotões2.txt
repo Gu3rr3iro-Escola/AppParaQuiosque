@@ -1,0 +1,49 @@
+
+
+Usar Configurações Padrão: {True} // Usado para ativar ou desativar as configurações, quando true as Configurações não seram carregadas
+///
+/// Principal - Botão Mostrar/Esconder
+///
+
+Escala do Botão - Responsiva / Fixa
+Responsivél :
+Máximo - Escala Para {1920,1080} = {0,9} //se tiver x troca para , e se tiver " " retirar / mínimo 5 caracteres máximo 9 caracteres
+Minimo - Escala Para {800,600} = {0,6} //se tiver x troca para ,  e se tiver " " retirar / mínimo 5 caracteres, máximo 9 caracteres
+Diferença = 
+[0] = Math.Abs(1920-800) 
+[1] = Math.Abs(1080-600)
+
+Fixo:
+Escala {}
+
+Texto:
+Mostrar = {} ou Esconder = {} //não pode estar Vazio
+
+Fonte:
+Falmily: (combo box)
+Regular - Texto normal.
+Bold - Texto em negrito.
+Italic - Texto em itálico.
+Underline - Texto sublinhado.
+Strikeout - Texto com uma linha no meio.
+Tipo: Combo Box (Feito)
+Size {} //máximo 2 caractres, min 1
+Multiplicador para fonte Escala {} // Se tiver % converter para tipo 10% = 0.1 ((escala * multiplicador) + multiplicador)
+
+Cor do Texto
+Cor de Fundo
+
+Posição (ComboBox)
+Canto Inferior Direito
+Canto Inferior Esquerdo
+Canto Superior Direito
+Canto Superior Esquerdo
+
+Janelas Arredondadas
+0 - sem 
+1 - quase nada
+2 - Ok
+3 - Razoável
+4 - Muito
+5 - Circulo
+https://predicatet.blogspot.com/2008/09/how-to-get-rounded-corner-windows-forms.html

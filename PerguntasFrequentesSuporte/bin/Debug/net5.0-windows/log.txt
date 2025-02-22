@@ -1,0 +1,459 @@
+2025-02-21 12:43:35 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:43:38 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:43:38 - Size:{Width=1936, Height=1066}
+2025-02-21 12:43:38 - Percentagem de ecrã usada para os botões:20
+2025-02-21 12:43:38 - Botão 0 AutoSize?: False
+2025-02-21 12:43:38 - Quantidade de botões: 1
+2025-02-21 12:43:38 - Botões por linha: 2
+2025-02-21 12:43:38 - Número de linhas necessárias: 1
+2025-02-21 12:43:38 - Largura disponível: 384, Altura disponível: 216
+2025-02-21 12:43:38 - Espaçamento Horizontal: 4, Espaçamento Vertical: 4
+2025-02-21 12:43:38 - Largura calculada dos botões: 186, Altura calculada dos botões: 208
+2025-02-21 12:43:38 - Largura total ocupada: 384, Altura total ocupada: 216
+2025-02-21 12:43:38 - Posição inicial dos botões (X: 768, Y: 432)
+2025-02-21 12:43:38 - Botão 1: Posição X = 772, Posição Y = 436
+2025-02-21 12:43:38 - Botão 2: Ocultado e desativado.
+2025-02-21 12:43:38 - Botão 3: Ocultado e desativado.
+2025-02-21 12:43:38 - Botão 4: Ocultado e desativado.
+2025-02-21 12:43:38 - Botão 5: Ocultado e desativado.
+2025-02-21 12:43:38 - Botão 6: Ocultado e desativado.
+2025-02-21 12:43:38 - Botão 7: Ocultado e desativado.
+2025-02-21 12:43:38 - Botão 8: Ocultado e desativado.
+2025-02-21 12:43:38 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:44:01 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:44:05 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:44:05 - Size:{Width=1936, Height=1066}
+2025-02-21 12:44:05 - Percentagem de ecrã usada para os botões:20
+2025-02-21 12:44:05 - Botão 0 AutoSize?:False
+2025-02-21 12:44:05 - Quantidade de botões: 1
+2025-02-21 12:44:05 - Botões por linha: 2
+2025-02-21 12:44:05 - Número de linhas necessárias: 1
+2025-02-21 12:44:05 - Largura disponível: 384, Altura disponível: 216
+2025-02-21 12:44:05 - Espaçamento Horizontal: 4, Espaçamento Vertical: 4
+2025-02-21 12:44:05 - Largura calculada dos botões: 186, Altura calculada dos botões: 208
+2025-02-21 12:44:05 - Largura total ocupada: 384, Altura total ocupada: 216
+2025-02-21 12:44:05 - Posição inicial dos botões (X: 768, Y: 432)
+2025-02-21 12:44:05 - Botão 1: Posição X = 772, Posição Y = 436
+2025-02-21 12:44:05 - Botão 2: Ocultado e desativado.
+2025-02-21 12:44:05 - Botão 3: Ocultado e desativado.
+2025-02-21 12:44:05 - Botão 4: Ocultado e desativado.
+2025-02-21 12:44:05 - Botão 5: Ocultado e desativado.
+2025-02-21 12:44:05 - Botão 6: Ocultado e desativado.
+2025-02-21 12:44:05 - Botão 7: Ocultado e desativado.
+2025-02-21 12:44:05 - Botão 8: Ocultado e desativado.
+2025-02-21 12:44:05 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:44:47 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:44:49 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:44:49 - Size:{Width=1936, Height=1066}
+2025-02-21 12:44:49 - Percentagem de ecrã usada para os botões:100
+2025-02-21 12:44:49 - Botão 0 AutoSize?:False
+2025-02-21 12:44:49 - Quantidade de botões: 1
+2025-02-21 12:44:49 - Botões por linha: 2
+2025-02-21 12:44:49 - Número de linhas necessárias: 1
+2025-02-21 12:44:49 - Largura disponível: 1920, Altura disponível: 1080
+2025-02-21 12:44:49 - Espaçamento Horizontal: 4, Espaçamento Vertical: 4
+2025-02-21 12:44:49 - Largura calculada dos botões: 954, Altura calculada dos botões: 1072
+2025-02-21 12:44:49 - Largura total ocupada: 1920, Altura total ocupada: 1080
+2025-02-21 12:44:49 - Posição inicial dos botões (X: 4, Y: 4)
+2025-02-21 12:44:49 - Botão 1: Posição X = 8, Posição Y = 8
+2025-02-21 12:44:49 - Botão 2: Ocultado e desativado.
+2025-02-21 12:44:49 - Botão 3: Ocultado e desativado.
+2025-02-21 12:44:49 - Botão 4: Ocultado e desativado.
+2025-02-21 12:44:49 - Botão 5: Ocultado e desativado.
+2025-02-21 12:44:49 - Botão 6: Ocultado e desativado.
+2025-02-21 12:44:49 - Botão 7: Ocultado e desativado.
+2025-02-21 12:44:49 - Botão 8: Ocultado e desativado.
+2025-02-21 12:44:49 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:45:00 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:45:03 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:45:03 - Size:{Width=1936, Height=1066}
+2025-02-21 12:45:03 - Percentagem de ecrã usada para os botões:70
+2025-02-21 12:45:03 - Botão 0 AutoSize?:False
+2025-02-21 12:45:03 - Quantidade de botões: 1
+2025-02-21 12:45:03 - Botões por linha: 2
+2025-02-21 12:45:03 - Número de linhas necessárias: 1
+2025-02-21 12:45:03 - Largura disponível: 1344, Altura disponível: 756
+2025-02-21 12:45:03 - Espaçamento Horizontal: 4, Espaçamento Vertical: 4
+2025-02-21 12:45:03 - Largura calculada dos botões: 666, Altura calculada dos botões: 748
+2025-02-21 12:45:03 - Largura total ocupada: 1344, Altura total ocupada: 756
+2025-02-21 12:45:03 - Posição inicial dos botões (X: 288, Y: 162)
+2025-02-21 12:45:03 - Botão 1: Posição X = 292, Posição Y = 166
+2025-02-21 12:45:03 - Botão 2: Ocultado e desativado.
+2025-02-21 12:45:03 - Botão 3: Ocultado e desativado.
+2025-02-21 12:45:03 - Botão 4: Ocultado e desativado.
+2025-02-21 12:45:03 - Botão 5: Ocultado e desativado.
+2025-02-21 12:45:03 - Botão 6: Ocultado e desativado.
+2025-02-21 12:45:03 - Botão 7: Ocultado e desativado.
+2025-02-21 12:45:03 - Botão 8: Ocultado e desativado.
+2025-02-21 12:45:03 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:45:29 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:45:33 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:45:33 - Size:{Width=1936, Height=1066}
+2025-02-21 12:45:33 - Percentagem de ecrã usada para os botões:70
+2025-02-21 12:45:33 - Botão 0 AutoSize?:False
+2025-02-21 12:45:33 - Quantidade de botões: 1
+2025-02-21 12:45:33 - Botões por linha: 2
+2025-02-21 12:45:33 - Número de linhas necessárias: 1
+2025-02-21 12:45:33 - Largura disponível: 1344, Altura disponível: 756
+2025-02-21 12:45:33 - Espaçamento Horizontal: 0, Espaçamento Vertical: 0
+2025-02-21 12:45:33 - Largura calculada dos botões: 672, Altura calculada dos botões: 756
+2025-02-21 12:45:33 - Largura total ocupada: 1344, Altura total ocupada: 756
+2025-02-21 12:45:33 - Posição inicial dos botões (X: 288, Y: 162)
+2025-02-21 12:45:33 - Botão 1: Posição X = 288, Posição Y = 162
+2025-02-21 12:45:33 - Botão 2: Ocultado e desativado.
+2025-02-21 12:45:33 - Botão 3: Ocultado e desativado.
+2025-02-21 12:45:33 - Botão 4: Ocultado e desativado.
+2025-02-21 12:45:33 - Botão 5: Ocultado e desativado.
+2025-02-21 12:45:33 - Botão 6: Ocultado e desativado.
+2025-02-21 12:45:33 - Botão 7: Ocultado e desativado.
+2025-02-21 12:45:33 - Botão 8: Ocultado e desativado.
+2025-02-21 12:45:33 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:47:02 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:47:07 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:47:07 - Size:{Width=1936, Height=1066}
+2025-02-21 12:47:07 - Percentagem de ecrã usada para os botões:70
+2025-02-21 12:47:07 - Botão 0 AutoSize?:False
+2025-02-21 12:47:07 - Quantidade de botões: 1
+2025-02-21 12:47:07 - Botões por linha: 2
+2025-02-21 12:47:07 - Número de linhas necessárias: 1
+2025-02-21 12:47:07 - Largura disponível: 1344, Altura disponível: 756
+2025-02-21 12:47:07 - Espaçamento Horizontal: 0, Espaçamento Vertical: 0
+2025-02-21 12:47:07 - Largura calculada dos botões: 672, Altura calculada dos botões: 756
+2025-02-21 12:47:07 - Largura total ocupada: 1344, Altura total ocupada: 756
+2025-02-21 12:47:07 - Posição inicial dos botões (X: 288, Y: 162)
+2025-02-21 12:47:07 - Botão 1: Posição X = 288, Posição Y = 162
+2025-02-21 12:47:07 - Botão 2: Ocultado e desativado.
+2025-02-21 12:47:07 - Botão 3: Ocultado e desativado.
+2025-02-21 12:47:07 - Botão 4: Ocultado e desativado.
+2025-02-21 12:47:07 - Botão 5: Ocultado e desativado.
+2025-02-21 12:47:07 - Botão 6: Ocultado e desativado.
+2025-02-21 12:47:07 - Botão 7: Ocultado e desativado.
+2025-02-21 12:47:07 - Botão 8: Ocultado e desativado.
+2025-02-21 12:47:07 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:50:23 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:50:27 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:50:27 - Quantidade de botões: 1
+2025-02-21 12:50:27 - Botões por linha: 1
+2025-02-21 12:50:27 - Número de linhas necessárias: 1
+2025-02-21 12:50:27 - Largura disponível: 1344, Altura disponível: 756
+2025-02-21 12:50:27 - Espaçamento Horizontal: 0, Espaçamento Vertical: 0
+2025-02-21 12:50:27 - Largura calculada dos botões: 1344, Altura calculada dos botões: 756
+2025-02-21 12:50:27 - Posição inicial dos botões (X: 0, Y: 0)
+2025-02-21 12:50:27 - Botão 1: Posição X = 0, Posição Y = 0
+2025-02-21 12:50:27 - Botão 1: Texto atribuído -> DefaultBotão
+2025-02-21 12:50:27 - Botão 2: Ocultado e desativado.
+2025-02-21 12:50:27 - Botão 3: Ocultado e desativado.
+2025-02-21 12:50:27 - Botão 4: Ocultado e desativado.
+2025-02-21 12:50:27 - Botão 5: Ocultado e desativado.
+2025-02-21 12:50:27 - Botão 6: Ocultado e desativado.
+2025-02-21 12:50:27 - Botão 7: Ocultado e desativado.
+2025-02-21 12:50:27 - Botão 8: Ocultado e desativado.
+2025-02-21 12:50:27 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:50:53 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:50:57 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:50:57 - Quantidade de botões: 1
+2025-02-21 12:50:57 - Botões por linha: 1
+2025-02-21 12:50:57 - Número de linhas necessárias: 1
+2025-02-21 12:50:57 - Largura disponível: 960, Altura disponível: 540
+2025-02-21 12:50:57 - Espaçamento Horizontal: 0, Espaçamento Vertical: 0
+2025-02-21 12:50:57 - Largura calculada dos botões: 960, Altura calculada dos botões: 540
+2025-02-21 12:50:57 - Posição inicial dos botões (X: 0, Y: 0)
+2025-02-21 12:50:57 - Botão 1: Posição X = 0, Posição Y = 0
+2025-02-21 12:50:57 - Botão 1: Texto atribuído -> DefaultBotão
+2025-02-21 12:50:57 - Botão 2: Ocultado e desativado.
+2025-02-21 12:50:57 - Botão 3: Ocultado e desativado.
+2025-02-21 12:50:57 - Botão 4: Ocultado e desativado.
+2025-02-21 12:50:57 - Botão 5: Ocultado e desativado.
+2025-02-21 12:50:57 - Botão 6: Ocultado e desativado.
+2025-02-21 12:50:57 - Botão 7: Ocultado e desativado.
+2025-02-21 12:50:57 - Botão 8: Ocultado e desativado.
+2025-02-21 12:50:57 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:51:13 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:51:16 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:51:16 - Quantidade de botões: 1
+2025-02-21 12:51:16 - Botões por linha: 1
+2025-02-21 12:51:16 - Número de linhas necessárias: 1
+2025-02-21 12:51:16 - Largura disponível: 960, Altura disponível: 540
+2025-02-21 12:51:16 - Espaçamento Horizontal: 60, Espaçamento Vertical: 60
+2025-02-21 12:51:16 - Largura calculada dos botões: 840, Altura calculada dos botões: 420
+2025-02-21 12:51:16 - Posição inicial dos botões (X: 30, Y: 30)
+2025-02-21 12:51:16 - Botão 1: Posição X = 30, Posição Y = 30
+2025-02-21 12:51:16 - Botão 1: Texto atribuído -> DefaultBotão
+2025-02-21 12:51:16 - Botão 2: Ocultado e desativado.
+2025-02-21 12:51:16 - Botão 3: Ocultado e desativado.
+2025-02-21 12:51:16 - Botão 4: Ocultado e desativado.
+2025-02-21 12:51:16 - Botão 5: Ocultado e desativado.
+2025-02-21 12:51:16 - Botão 6: Ocultado e desativado.
+2025-02-21 12:51:16 - Botão 7: Ocultado e desativado.
+2025-02-21 12:51:16 - Botão 8: Ocultado e desativado.
+2025-02-21 12:51:16 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:51:48 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:51:51 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:51:51 - Quantidade de botões: 4
+2025-02-21 12:51:51 - Botões por linha: 2
+2025-02-21 12:51:51 - Número de linhas necessárias: 2
+2025-02-21 12:51:51 - Largura disponível: 960, Altura disponível: 540
+2025-02-21 12:51:51 - Espaçamento Horizontal: 60, Espaçamento Vertical: 60
+2025-02-21 12:51:51 - Largura calculada dos botões: 390, Altura calculada dos botões: 180
+2025-02-21 12:51:51 - Posição inicial dos botões (X: 30, Y: 30)
+2025-02-21 12:51:51 - Botão 1: Posição X = 30, Posição Y = 30
+2025-02-21 12:51:51 - Botão 1: Texto atribuído -> DefaultBotão
+2025-02-21 12:51:51 - Botão 2: Posição X = 480, Posição Y = 30
+2025-02-21 12:51:51 - Botão 2: Texto atribuído -> DefaultBotão
+2025-02-21 12:51:51 - Botão 3: Posição X = 30, Posição Y = 270
+2025-02-21 12:51:51 - Botão 3: Texto atribuído -> DefaultBotão
+2025-02-21 12:51:51 - Botão 4: Posição X = 480, Posição Y = 270
+2025-02-21 12:51:51 - Botão 4: Texto atribuído -> DefaultBotão
+2025-02-21 12:51:51 - Botão 5: Ocultado e desativado.
+2025-02-21 12:51:51 - Botão 6: Ocultado e desativado.
+2025-02-21 12:51:51 - Botão 7: Ocultado e desativado.
+2025-02-21 12:51:51 - Botão 8: Ocultado e desativado.
+2025-02-21 12:51:51 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:52:09 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:52:12 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:52:12 - Quantidade de botões: 4
+2025-02-21 12:52:12 - Botões por linha: 2
+2025-02-21 12:52:12 - Número de linhas necessárias: 2
+2025-02-21 12:52:12 - Largura disponível: 1920, Altura disponível: 1080
+2025-02-21 12:52:12 - Espaçamento Horizontal: 60, Espaçamento Vertical: 60
+2025-02-21 12:52:12 - Largura calculada dos botões: 870, Altura calculada dos botões: 450
+2025-02-21 12:52:12 - Posição inicial dos botões (X: 30, Y: 30)
+2025-02-21 12:52:12 - Botão 1: Posição X = 30, Posição Y = 30
+2025-02-21 12:52:12 - Botão 1: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:12 - Botão 2: Posição X = 960, Posição Y = 30
+2025-02-21 12:52:12 - Botão 2: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:12 - Botão 3: Posição X = 30, Posição Y = 540
+2025-02-21 12:52:12 - Botão 3: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:12 - Botão 4: Posição X = 960, Posição Y = 540
+2025-02-21 12:52:12 - Botão 4: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:12 - Botão 5: Ocultado e desativado.
+2025-02-21 12:52:12 - Botão 6: Ocultado e desativado.
+2025-02-21 12:52:12 - Botão 7: Ocultado e desativado.
+2025-02-21 12:52:12 - Botão 8: Ocultado e desativado.
+2025-02-21 12:52:12 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 12:52:25 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 12:52:28 - Iniciou a aplicação dos ajustes visuais ao menu.
+2025-02-21 12:52:28 - Quantidade de botões: 4
+2025-02-21 12:52:28 - Botões por linha: 2
+2025-02-21 12:52:28 - Número de linhas necessárias: 2
+2025-02-21 12:52:28 - Largura disponível: 1536, Altura disponível: 864
+2025-02-21 12:52:28 - Espaçamento Horizontal: 60, Espaçamento Vertical: 60
+2025-02-21 12:52:28 - Largura calculada dos botões: 678, Altura calculada dos botões: 342
+2025-02-21 12:52:28 - Posição inicial dos botões (X: 30, Y: 30)
+2025-02-21 12:52:28 - Botão 1: Posição X = 30, Posição Y = 30
+2025-02-21 12:52:28 - Botão 1: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:28 - Botão 2: Posição X = 768, Posição Y = 30
+2025-02-21 12:52:28 - Botão 2: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:28 - Botão 3: Posição X = 30, Posição Y = 432
+2025-02-21 12:52:28 - Botão 3: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:28 - Botão 4: Posição X = 768, Posição Y = 432
+2025-02-21 12:52:28 - Botão 4: Texto atribuído -> DefaultBotão
+2025-02-21 12:52:28 - Botão 5: Ocultado e desativado.
+2025-02-21 12:52:28 - Botão 6: Ocultado e desativado.
+2025-02-21 12:52:28 - Botão 7: Ocultado e desativado.
+2025-02-21 12:52:28 - Botão 8: Ocultado e desativado.
+2025-02-21 12:52:28 - Ajustes visuais do menu aplicados com sucesso.
+2025-02-21 13:19:40 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:20:02 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:21:49 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:23:48 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:25:17 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:25:46 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:26:03 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:26:36 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:26:58 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:28:21 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:29:12 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:30:05 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:30:37 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:30:58 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:31:27 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:58:04 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 13:59:09 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:06:46 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:06:49 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:06:49 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:07:53 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:07:55 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:07:55 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:08:28 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:08:29 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:08:29 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:10:20 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:10:20 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:10:20 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:13:18 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:13:19 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:13:19 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:13:37 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:13:38 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:13:38 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:16:48 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:16:49 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:17:55 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:17:56 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:18:13 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:18:13 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:19:43 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:19:44 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:20:02 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:20:03 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:20:28 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:20:29 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:20:41 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:20:41 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:20:47 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:20:47 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:27:32 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:27:34 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:27:47 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:27:48 - O ficheiro de configuração para o perfil 1 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:28:08 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:28:09 - O ficheiro de configuração para o perfil 2 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:44:18 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:44:20 - O ficheiro de configuração para o perfil 2 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 14:44:58 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 14:44:59 - O ficheiro de configuração para o perfil 2 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:26:53 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:26:55 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:26:55 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:27:06 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:27:06 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:27:06 - O ficheiro de configuração para o perfil 1 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:27:56 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:27:56 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:27:56 - O ficheiro de configuração para o perfil 1 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:28:06 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:28:06 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:28:06 - O ficheiro de configuração para o perfil 11 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:28:43 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:28:52 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:28:52 - O ficheiro de configuração para o perfil 11 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:30:52 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:31:01 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:31:01 - O ficheiro de configuração para o perfil 11 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:31:17 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:31:19 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:31:19 - O ficheiro de configuração para o perfil 111 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:33:01 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:33:03 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:33:03 - O ficheiro de configuração para o perfil 111 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:33:26 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:33:27 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:33:28 - O ficheiro de configuração para o perfil 112 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:38:33 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:38:39 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:38:39 - O ficheiro de configuração para o perfil 112 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:39:11 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:39:14 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:39:14 - O ficheiro de configuração para o perfil 112 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:39:14 - O ficheiro de configuração para o perfil 112 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:39:25 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:39:27 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:39:27 - O ficheiro de configuração para o perfil 113 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:39:27 - O ficheiro de configuração para o perfil 113 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:39:51 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:39:53 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:39:53 - O ficheiro de configuração para o perfil 113 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:39:53 - O ficheiro de configuração para o perfil 113 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:40:08 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:40:10 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:40:10 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:40:10 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:40:44 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:40:46 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:41:47 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:41:59 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:42:44 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 16:42:46 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 16:42:47 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 16:42:48 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 19:26:18 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:26:39 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:26:39 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 19:26:40 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 19:37:25 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:37:28 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:38:00 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:38:02 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:38:22 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:38:24 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:39:05 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:39:07 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:39:23 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:39:27 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:39:38 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:39:46 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:40:01 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:40:03 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:40:57 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:40:59 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 19:41:28 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 19:41:31 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 20:09:35 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 20:09:35 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 20:09:38 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 20:09:38 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 20:12:19 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 20:12:19 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 20:12:29 - Recurso não encontrado, retornando AppConfig vazio.
+2025-02-21 20:12:29 - Pasta criada automaticamente: M:\Estágio\Projetos\ProjetoAtual\PerguntasFrequentesSuporte\PerguntasFrequentesSuporte\bin\Debug\net5.0-windows\Perfil
+2025-02-21 20:47:00 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 20:47:32 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 20:48:59 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 20:49:49 - O ficheiro de configuração para o perfil 114 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 20:58:04 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
+2025-02-21 20:59:22 - O ficheiro de configuração para o perfil 0 não foi encontrado.
+Usando configurações padrão.
